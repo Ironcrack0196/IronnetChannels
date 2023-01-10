@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, TC 
+#EXTINF:-1 tvg-logo="https://tctelevision.nyc3.digitaloceanspaces.com/Archivos/logos/TC_Logo.png", TC 
 https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl2JW4e49kcSOOXq7tJDOyuaBP0rlPRifxHTxPp3lK6NU)/dm/3/x7wijay/d/live-2.m3u8
 
 
@@ -36,3 +36,5 @@ https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CosFF-D1tx-E8mqXWXEOMXA0LWR
 
 #EXTINF:-1, HBO
 https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CoIFw9zAcOmRgiffSwgcnVXN2IblT5e4j-eaP2YOIouoGbUchWxTYLiEIrl8UrzAIrK8bhMksZtoniciyIb-Ua-kSGq4S5fNufHzxSXgPhQ7YAAOQUpH1I6UDAVaw8q9CN5coMcrHuP1BXi9gm-gZxoWPUpMf4D5wPmSsPUsR8ALDaJnfiktw1bBZzQ1s3lbt0b3HBXgysTLVDOMVxC51Nqg18IcV_xd37PhyjuTTR-aVkGBo3Uv57IsDgnnQ1zBa97usqFz32yjYGUde7z4gDWf7rm9lNp6HBIk5KzhV-ZIslVPbNFCzqNuqxG3S3TKxTQur-cXi9i22084mCkugDjkUpX_1HbYz-4WA8oHJRhdq2-4SUk6_bgOzQUN--uDWZ-Y0nGH7brUzx2EhI3PeA5vQ2YLpHyjqPA7-YP7sVAA7rgJouTFbYjadAVYyrtKU_2g899OaSsgco3zBD-Z_OLzhlwKaTZbCAqLVlbIF9I0Sqfd6Bzv3jzzIQg_Ih8MKLqCRpD5cPbCPeKJ9ZDn1FIVxi9a_Q2F-sxBVYZ_hj5CEZ7xpeM95AalUDc5dvZw7uTzquQWEn7np4KiHx9Op1LpH3I5dRuN-i0fmcvDl_d8U9Oqd3RfFJ9WpprbOfwgXB65NrMKYKOKf8_pNfqPUmPEVaKVKr_woLdB7fIz7tqriAj7YomDqzzeCWLa4VGFn5iwqYRqGN3yEkbocauvEXwcahVge92VxAdYUQcrLHZryp9wMRiEzoGgJwBybTNm8Sy5iSObIxCFZLmiLGDFmQMSP-x2agufuhtj-btALIRlVgrea461Tji9eEi_ZqEBe4K0JDRdhVeZS_SfIyhkGCJUp8ebGgwGEh2aycjnWd6e-togASoJZXUtd2VzdC0yMMwF.m3u8
+
+
